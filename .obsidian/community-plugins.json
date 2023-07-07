@@ -5,5 +5,8 @@
   "obsidian-outliner",
   "obsidian-excalidraw-plugin",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-checklist-plugin"
+  "obsidian-checklist-plugin",
+  "url-into-selection",
+  "obsidian-markmind",
+  "obsidian-tasks-plugin"
 ]

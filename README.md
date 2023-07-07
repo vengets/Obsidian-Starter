@@ -1,6 +1,7 @@
 # Obsidian-Starter
 Open it as a vault with Obsidian, having all the templates and necessary plugins to kick start your knowledge base.
 
+Cmd + P for command palette.
 
 # Plugins
 
@@ -104,4 +105,23 @@ Example: "[x] -> name"
 ```
 
 - [x] #todo checklist sample item
+
+### Paste URL into selection
+
+Insert links (URLs) into a selected text "notion-style" using regular `Ctrl/Cmd + V`
+
+```ad-tip
+title: How to paste url into selected text?
+Simply paste it after selecting a text you wanted to make it hyperlink.
+```
+
+### Obsidian MarkMind
+
+Obsidian MarkMind is a mind map, outline, and PDF annotate tool based on Obsidian API.
+
+### Tasks
+Similar to checklist but with option to specify deadline, repeat and icons.
+
+Ex: 
+- [ ] 📅 2023-07-07 🛫 2023-07-07 🔺 🔁 every day  Sample item
 
