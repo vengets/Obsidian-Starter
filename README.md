@@ -47,4 +47,10 @@ Next line onwards we can write our query.
 End the segment with 3 backticks [ ` ].
 ```
 
+### Templater
+
+[Templater](https://github.com/SilentVoid13/Templater) is a template plugin for [Obsidian.md](https://obsidian.md/). It defines a templating language that lets you insert variables and functions results into your notes. It will also let you execute JavaScript code manipulating those variables and functions.
+
+A list of useful resources about [Templater](https://github.com/SilentVoid13/Templater)
+
 
