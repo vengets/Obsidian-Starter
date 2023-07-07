@@ -2,5 +2,7 @@
   "obsidian-admonition",
   "table-editor-obsidian",
   "dataview",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "obsidian-excalidraw-plugin",
+  "cm-editor-syntax-highlight-obsidian"
 ]

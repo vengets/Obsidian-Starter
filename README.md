@@ -77,3 +77,17 @@ shift + tab
 	- Drum
 	- Doll
 
+### Excalidraw
+
+You can store and edit Excalidraw files in your vault, you can embed drawings into your documents, and you can link to documents and other drawings to/and from Excalidraw.
+
+
+### Editor Syntax Highlight
+
+ It allows syntax highlighting for code blocks in the editor.
+```javascript
+function displayHi() {
+	console.log('Hi');
+}
+```
+
