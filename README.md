@@ -91,3 +91,17 @@ function displayHi() {
 }
 ```
 
+### Checklist
+
+ Run the `Checklist: Open View` command from the command palette to get it to appear.
+
+```ad-tip
+title: How to add a checklist?
+You can create a checklist by "- [ ] -> name"
+And finish it by adding "x" inside it.
+Example: "[x] -> name"
+
+```
+
+- [x] #todo checklist sample item
+

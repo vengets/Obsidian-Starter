@@ -4,5 +4,6 @@
   "dataview",
   "obsidian-outliner",
   "obsidian-excalidraw-plugin",
-  "cm-editor-syntax-highlight-obsidian"
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-checklist-plugin"
 ]
