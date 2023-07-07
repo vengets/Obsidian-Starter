@@ -53,4 +53,27 @@ End the segment with 3 backticks [ ` ].
 
 A list of useful resources about [Templater](https://github.com/SilentVoid13/Templater)
 
+### Outliner
+
+Move lists with children wherever you want without breaking the structure.
+
+```ad-tip
+title: How to use outliner
+Here are the shortcuts
+Cmd/ctrl + shift + arrowkey
+tab
+shift + tab
+```
+
+- Apple
+- Banana
+	- Bat
+	- Ball
+	- Bike
+- Carrot
+	- car
+	- clip
+- Drumstick
+	- Drum
+	- Doll
 
